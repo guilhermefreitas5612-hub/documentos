@@ -7,36 +7,40 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `Higor Nascimento de amorim, Guilherme Silva Freitas, Samuel ludovico, Caroline de Castro Soares`
+- Data: `[24/09/2026]`
 
 ## Preenchimento
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`[Sustentabilidade]`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[Datas centers]`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `[Hardware obsoleto]`
+- Objeto estudado: `[descarte de lixo eletronico de forma sustentavel]`
+- Contexto ou aplicação: `[Aumento do descarte de forma incorreta]`
+- Aspecto que será analisado: `[Como o  descarte correto é mais viavel economicamente]`
+- O que ficará fora do estudo: `[Uso energetico e o impacto social]`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`[O descarte inadequado de hardware obsoleto contribui para o aumento do lixo eletrônico e para o desperdício de materiais que ainda podem ser reaproveitados.
+diante desse cenário, torna-se importante analisar formas mais sustentáveis de descarte desses equipamentos.
+o descarte correto pode possibilitar a reciclagem e a recuperação de componentes, reduzindo custos e desperdícios.
+Além disso, práticas adequadas podem favorecer o reaproveitamento de materiais e tornar o processo economicamente mais viável.
+Assim, o estudo busca compreender como o descarte sustentável de hardware obsoleto pode contribuir para uma solução economicamente eficiente.]`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `[Sim]`
+- O tema pode ser estudado no prazo? `[Sim]`
+- O grupo possui acesso às fontes necessárias? `[Sim]`
 
 ## Produto da etapa
 
@@ -44,10 +48,10 @@ Tema delimitado e justificativa.
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
+- [x] O tema é específico.
+- [x] O tema é relevante.
+- [x] O tema é viável.
+- [x] O recorte está claro.
 - [ ] O tema foi validado pelo professor.
 
 ## Contribuições
