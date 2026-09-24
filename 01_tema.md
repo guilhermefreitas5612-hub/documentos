@@ -18,14 +18,14 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`[Datas centers]`
+`[O descarte de lixo eletronico produzido por datas centers]`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[Hardware obsoleto]`
+- Tema amplo: `[Sustentabilidade]`
 - Objeto estudado: `[descarte de lixo eletronico de forma sustentavel]`
 - Contexto ou aplicação: `[Aumento do descarte de forma incorreta]`
-- Aspecto que será analisado: `[Como o  descarte correto é mais viavel economicamente]`
+- Aspecto que será analisado: `[Como o hardware obsoleto pode reaporveitado]`
 - O que ficará fora do estudo: `[Uso energetico e o impacto social]`
 
 ### Justificativa
@@ -52,10 +52,10 @@ Tema delimitado e justificativa.
 - [x] O tema é relevante.
 - [x] O tema é viável.
 - [x] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [x] O tema foi validado pelo professor.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Guilherme Silva Freitas]` | `[preencher]` |
