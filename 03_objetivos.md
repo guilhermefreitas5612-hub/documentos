@@ -22,7 +22,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[	Como o descarte sustentável de hardware obsoleto em data centers pode contribuir para a reduçao de custos por meio do reaproveitamento da reciclagem e da recuperação de materiais?]` |
+| Problema | `[	Grandeza do lixo eletronico produzido por datas centers sem aproveitamento]` |
 | Objetivo geral | `[	analisar, por meio de uma revisão bibliográfica, como práticas sustentáveis de descarte de hardware obsoleto em data centers podem contribuir para a redução de custos, considerando o reaproveitamento, a reciclagem e a recuperação de materiais e componentes.]` |
 | Resultado esperado | `[	Apresentar, com base em artigos científicos as principais alternativas sustentáveis para a destinação de hardware obsoleto em data centers e discutir seu potencial de reaproveitamento, reduçao de desperdícios e custos.]` |
 
