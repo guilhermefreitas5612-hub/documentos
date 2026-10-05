@@ -24,22 +24,23 @@ Por isso, este trabalho busca responder à seguinte pergunta: como o descarte su
 
 ## Metodologia
 
-`[Foi feita uma revisão bibliográfica com três trabalhos publicados entre 2022 e 2025, respeitando o limite de cinco anos definido para a pesquisa. As fontes foram buscadas no Google Acadêmico, no MDPI/Sustainability, na Revista Produção Online e no Repositório Institucional do Centro Paula Souza. Foram escolhidos trabalhos sobre lixo eletrônico, Green IT, sustentabilidade, reciclagem e gestão de equipamentos de tecnologia.
+`[Foi realizada uma revisão bibliográfica utilizando três trabalhos publicados entre 2022 e 2025, considerando o período de cinco anos definido para a pesquisa. As fontes foram encontradas no Google Acadêmico, no MDPI/Sustainability, na Revista Produção Online e no Repositório Institucional do Centro Paula Souza.
 
-Depois da seleção, os trabalhos foram lidos e separados por tema. Na análise, foram comparados os resultados principais, os métodos, as limitações e o que cada estudo acrescenta ao problema da pesquisa.]`
+Foram selecionados trabalhos relacionados a lixo eletrônico, Green IT, sustentabilidade, reciclagem, reutilização e gestão de equipamentos de tecnologia. Após a seleção, os textos foram lidos e organizados de acordo com os principais assuntos abordados. Também foram comparadas as propostas, os resultados e as limitações de cada estudo, buscando identificar o que eles apresentam sobre o descarte sustentável e a redução de custos.]`
 
 ## Revisão da literatura
 
 ### `[Reaproveitamento, reciclagem e descarte do hardware]`
 
-`[Nos estudos analisados, o descarte de equipamentos de tecnologia não aparece só como a última etapa do processo. Saraiva et al. (2025) destacam os riscos do lixo eletrônico e mostram que a reciclagem permite recuperar materiais e colocá-los de volta na cadeia produtiva. Manuquian (2023) também fala de reutilização, reciclagem e logística reversa como práticas importantes dentro do Green IT.
-Os dois autores concordam que um equipamento que saiu de uso não precisa ir direto para o lixo. A diferença é que Saraiva et al. (2025) tratam o lixo eletrônico de um modo mais geral, e Manuquian (2023) coloca o problema dentro da sustentabilidade da Tecnologia da Informação como um todo.]`
+`[Os estudos analisados mostram que o descarte não deve ser visto apenas como a etapa final da utilização de um equipamento. Saraiva et al. (2025) apresentam os impactos do lixo eletrônico e destacam a possibilidade de recuperar materiais por meio da reciclagem. Manuquian (2023), por sua vez, relaciona reutilização, reciclagem e logística reversa às práticas de Green IT.
+
+Os dois trabalhos apresentam uma ideia em comum: um equipamento que deixou de atender às necessidades de uma organização não precisa necessariamente ser tratado como lixo. Seus componentes podem ser reutilizados, encaminhados para reciclagem ou destinados corretamente.]`
 
 ### `[Sustentabilidade e redução de custos]`
 
-`[Os estudos também mostram que a sustentabilidade pode influenciar os resultados econômicos das organizações. Manuquian (2023) cita práticas como virtualização, equipamentos mais eficientes e reciclagem, e liga essas ações à redução de custos e ao ganho de eficiência. Salles, Lunardi e Thompson (2022) vão além e propõem um modelo de maturidade de Green IT com seis dimensões: organizacional, tecnológica, econômica, ambiental, social e de marketing.
+`[Além da questão ambiental, as práticas sustentáveis também podem ter relação com os custos das organizações. Manuquian (2023) apresenta práticas como virtualização, utilização de equipamentos mais eficientes e reciclagem, relacionando-as à busca por maior eficiência.
 
-Mesmo com abordagens diferentes, os estudos concordam que a sustentabilidade em TI precisa de planejamento. Só que a proposta de Salles, Lunardi e Thompson (2022) é teórica e ainda precisa ser testada em organizações reais, e o trabalho de Manuquian (2023) reúne exemplos de práticas que já tinham sido apresentadas em outros estudos.]`
+Salles, Lunardi e Thompson (2022) apresentam uma proposta de avaliação da maturidade de Green IT considerando seis dimensões: organizacional, tecnológica, econmica, ambiental, social e de marketing. Isso mostra que a sustentabilidade em Ti não depende somente da escolha de equipamentos mais eficientes, mas também de planejamento e gestao.]`
 
 ### `[Limitações dos estudos]`
 
@@ -56,7 +57,9 @@ Nenhum dos três traz dados práticos de data centers, como quanto foi economiza
 
 ## Considerações finais
 
-`[A revisão indica que o descarte sustentável de hardware obsoleto pode ajudar a diminuir o desperdício e a aproveitar materiais que ainda têm valor. Nos estudos analisados, a reciclagem, o reaproveitamento e a logística reversa aparecem como as principais alternativas. Mesmo assim, ainda faltam estudos específicos sobre data centers, principalmente com dados reais de custos, quantidade de material recuperado e resultados depois que essas práticas foram colocadas em uso.]`
+`[A revisão realizada indica que o descarte sustentável de hardware obsoleto pode trazer benefícios ambientais e também contribuir para uma utilização mais eficiente dos recursos. O reaproveitamento de componentes, a reciclagem e a logística reversa são alternativas que podem evitar o descarte desnecessário de materiais.
+
+Entretanto, os estudos analisados ainda não permitem afirmar quanto essas práticas podem reduzir os custos de um data center específico. Por isso, pesquisas futuras poderiam analisar organizações reais, comparando os custos do descarte convencional com os resultados obtidos por meio do reaproveitamento e da reciclagem. Dessa forma, seria possível entender melhor a relação entre sustentabilidade e economia na gestão de hardware.]`
 
 ## Resumo
 
